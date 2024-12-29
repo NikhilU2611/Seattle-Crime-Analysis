@@ -1,4 +1,4 @@
-# Seattle Crime and Poverty Analysis
+# Seattle Crime Analysis
 
 This project analyzes crime patterns in Seattle from 2008 to 2024, with a focus on understanding 
 the intersection of crime rates and socio-economic disparities. By integrating crime data from the 
